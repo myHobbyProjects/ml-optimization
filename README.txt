@@ -28,6 +28,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 8. References for classifier_nn_with_mlrose.ipynb
  https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
  https://github.com/myHobbyProjects/ml-supervised.git
+ http://chappers.github.io/data/a-comparison-of-randomized-optimization-methods.pdf
 
 10. Link to source:
 https://github.com/myHobbyProjects/ml-optimization.git

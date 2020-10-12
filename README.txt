@@ -30,6 +30,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
  https://github.com/myHobbyProjects/ml-supervised.git
 
 10. Link to source:
-https://github.com/myHobbyProjects/ml-supervised.git
+https://github.com/myHobbyProjects/ml-optimization.git
 
 ** End Of README
